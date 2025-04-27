@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/oliveira/Documentos/PYTHON/anki_cards/venv
+set -gx VIRTUAL_ENV /home/oliveira/Documentos/PYTHON/anki_cards_generator/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
